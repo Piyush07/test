@@ -14,7 +14,7 @@
 
 ## This is a checklist
 
--[ ] Item 1
--[ ] Item 2
--[ ] Item 3
+- [x] Item 1
+- [ ] Item 2
+- [ ] Item 3
 
